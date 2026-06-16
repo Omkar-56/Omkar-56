@@ -8,8 +8,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-pansare-3b8a91292)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-8A9E7B?style=flat-square&logo=gmail&logoColor=white)](mailto:omkarpansare5566@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-pansare-3b8a91292)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarpansare5566@gmail.com)
 
 </div>
 
