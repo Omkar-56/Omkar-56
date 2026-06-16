@@ -1,3 +1,20 @@
+﻿<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9DE650&center=true&vCenter=true&width=600&lines=Omkar+Pansare;Full+Stack+Developer;Student+at+MESWCOE" alt="Typing SVG" />
+
+<br/>
+
+**Student at MESWCOE | Full Stack Developer**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-pansare-3b8a91292)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-8A9E7B?style=flat-square&logo=gmail&logoColor=white)](mailto:omkarpansare5566@gmail.com)
+
+</div>
+
+---
+
 <div align="center">
 
 <!-- Replace with your own banner image or remove this block -->
@@ -67,8 +84,6 @@ I'm a developer based in **Pune**, passionate about the intersection of clean en
 | **[Cloud Storage WebApp](https://github.com/Omkar-56/Personal-Cloud-Storage)** | Store your data securely  | React · Node.js · Minio | [Repo](https://github.com/Omkar-56/Personal-Cloud-Storage) |
 | **[Recepito](https://github.com/Omkar-56/Whatsapp-AI-Bot-Server)** | Working on an AI receptionist for booking appointments using Whatsapp. | Nodejs · Whatsapp API · PostgreSQL | [Repo](https://github.com/Omkar-56/Whatsapp-AI-Bot-Server) |
 
-> 📌 *Pin your best repos below this README so they show up immediately on your profile.*
-
 ---
 
 ## 📊 GitHub Stats
@@ -109,7 +124,7 @@ I'm always happy to chat about projects, ideas, or just say hi.
 
 <div align="center">
 
-**<!--[🌐 Portfolio](https://yourwebsite.com) --> · [💼 LinkedIn](https://www.linkedin.com/in/omkar-pansare-3b8a91292/) · [📧 Email](omkarpansare5566@gmail.com)**
+**<!--[🌐 Portfolio](https://yourwebsite.com) --> · [💼 LinkedIn](https://www.linkedin.com/in/omkar-pansare-3b8a91292) · [📧 Email](omkarpansare5566@gmail.com)**
 
 </div>
 
