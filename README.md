@@ -19,11 +19,11 @@
 
 I'm a developer based in **Pune**, passionate about the intersection of clean engineering and great design. I build things for the web — from pixel-perfect frontends to robust backend systems.
 
-- 🔭 Currently working on **Recepito(Whatsapp AI Receptionist)**
-- 🌱 Learning **Whatsapp API, LLM integration**
-- 🤝 Open to **freelance projects, collaborations, and full-time roles**
-<!-- - 💬 Ask me about **React, Node.js, system design, or [your niche]**
-- ⚡ Fun fact: **[something human and memorable about you]** -->
+- Currently working on **Recepito(Whatsapp AI Receptionist)**
+- Learning **Whatsapp API, LLM integration**
+- Open to **freelance projects, collaborations, and full-time roles**
+<!-- - Ask me about **React, Node.js, system design, or [your niche]**
+- Fun fact: **[something human and memorable about you]** -->
 
 ---
 
@@ -58,7 +58,7 @@ I'm a developer based in **Pune**, passionate about the intersection of clean en
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
@@ -68,7 +68,7 @@ I'm a developer based in **Pune**, passionate about the intersection of clean en
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -80,7 +80,7 @@ I'm a developer based in **Pune**, passionate about the intersection of clean en
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -100,7 +100,7 @@ If you don't have a blog, delete this section
 -->
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always happy to chat about projects, ideas, or just say hi.
 
