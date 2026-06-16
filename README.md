@@ -15,24 +15,6 @@
 
 ---
 
-<div align="center">
-
-<!-- Replace with your own banner image or remove this block -->
-<!-- ![Banner](./assets/banner.png) -->
-
-# Hi there, I'm Omkar Pansare
-
-### Full-Stack Developer · Building thoughtful digital experiences
-
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-yourwebsite.com-C4622D?style=flat-square&logo=vercel&logoColor=white)](https://yourwebsite.com)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-8A9E7B?style=flat-square&logo=gmail&logoColor=white)](mailto:omkarpansare5566@gmail.com)
-<!--[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)-->
-
-</div>
-
----
-
 ## About Me
 
 I'm a developer based in **Pune**, passionate about the intersection of clean engineering and great design. I build things for the web — from pixel-perfect frontends to robust backend systems.
