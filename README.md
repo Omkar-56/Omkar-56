@@ -109,9 +109,3 @@ I'm always happy to chat about projects, ideas, or just say hi.
 **<!--[🌐 Portfolio](https://yourwebsite.com) --> · [💼 LinkedIn](https://www.linkedin.com/in/omkar-pansare-3b8a91292) · [📧 Email](omkarpansare5566@gmail.com)**
 
 </div>
-
----
-
-<div align="center">
-  <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=Omkar-56&style=flat-square&color=C4622D&label=" alt="profile views" /></sub>
-</div>
