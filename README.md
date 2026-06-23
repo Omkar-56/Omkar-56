@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omkar-pansare.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-pansare-3b8a91292)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarpansare5566@gmail.com)
 
@@ -106,6 +107,6 @@ I'm always happy to chat about projects, ideas, or just say hi.
 
 <div align="center">
 
-**<!--[🌐 Portfolio](https://yourwebsite.com) --> · [💼 LinkedIn](https://www.linkedin.com/in/omkar-pansare-3b8a91292) · [📧 Email](omkarpansare5566@gmail.com)**
+**[🌐 Portfolio](https://omkar-pansare.vercel.app) · [💼 LinkedIn](https://www.linkedin.com/in/omkar-pansare-3b8a91292) · [📧 Email](omkarpansare5566@gmail.com)**
 
 </div>
