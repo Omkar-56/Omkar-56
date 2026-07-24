@@ -63,7 +63,7 @@ I'm a developer based in **Pune**, passionate about the intersection of clean en
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
-| **[Unalone](https://github.com/Omkar-56/unalone)** | Going for a Coffee on your own? Post it on Unalone app and get a company. | React · Node.js · PostgreSQL | [Live ↗](unalone-flax.vercel.app) · [Repo](https://github.com/Omkar-56/unalone) |
+| **[Unalone](https://github.com/Omkar-56/unalone)** | Going for a Coffee on your own? Post it on Unalone app and get a company. | React · Node.js · PostgreSQL | [Live ↗](https://unalone-flax.vercel.app/) · [Repo](https://github.com/Omkar-56/unalone) |
 | **[Cloud Storage WebApp](https://github.com/Omkar-56/Personal-Cloud-Storage)** | Store your data securely  | React · Node.js · Minio | [Repo](https://github.com/Omkar-56/Personal-Cloud-Storage) |
 | **[Recepito](https://github.com/Omkar-56/Whatsapp-AI-Bot-Server)** | Working on an AI receptionist for booking appointments using Whatsapp. | Nodejs · Whatsapp API · PostgreSQL | [Repo](https://github.com/Omkar-56/Whatsapp-AI-Bot-Server) |
 
