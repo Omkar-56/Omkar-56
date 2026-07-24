@@ -73,7 +73,7 @@ I'm a developer based in **Pune**, passionate about the intersection of clean en
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Omkar-56&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=C4622D&icon_color=C4622D&text_color=2C1A0E&bg_color=FAF7F2" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=Omkar-56&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=C4622D&icon_color=C4622D&text_color=2C1A0E&bg_color=FAF7F2" />
 &nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Omkar-56&layout=compact&theme=default&hide_border=true&title_color=C4622D&text_color=2C1A0E&bg_color=FAF7F2&langs_count=6" />
 
