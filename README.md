@@ -107,6 +107,6 @@ I'm always happy to chat about projects, ideas, or just say hi.
 
 <div align="center">
 
-**[🌐 Portfolio](https://omkar-pansare.vercel.app) · [💼 LinkedIn](https://www.linkedin.com/in/omkar-pansare-3b8a91292) · [📧 Email](omkarpansare5566@gmail.com)**
+**[Portfolio](https://omkar-pansare.vercel.app) · [LinkedIn](https://www.linkedin.com/in/omkar-pansare-3b8a91292) · [Email](omkarpansare5566@gmail.com)**
 
 </div>
