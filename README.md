@@ -28,7 +28,7 @@ I'm a developer based in **Pune**, passionate about the intersection of clean en
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
