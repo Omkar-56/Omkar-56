@@ -98,8 +98,8 @@ If you don't have a blog, delete this section
 - [Title of your best post](https://yourblog.com/post-1)
 - [Another interesting post](https://yourblog.com/post-2)
 - [Something technical you learned](https://yourblog.com/post-3)
--->
 ---
+-->
 
 ## Let's Connect
 
