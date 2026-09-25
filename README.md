@@ -1,112 +1,227 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9DE650&center=true&vCenter=true&width=600&lines=Omkar+Pansare;Full+Stack+Developer;Software+Engineer" alt="Typing SVG" />
+  <!-- Header Typing SVG -->
+  <a href="https://github.com/Omkar-56">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Omkar+Pansare;Full-Stack+Software+Developer;Python+%26+Node.js+Backends;React+%26+Tailwind+CSS+Frontends;AI+%26+RAG+Systems+Explorer" alt="Typing SVG" />
+  </a>
 
-<br/>
+  <p align="center">
+    <strong>Crafting scalable web systems, resilient backend APIs, and intuitive user experiences.</strong>
+  </p>
 
-**Software Engineer | Full Stack Developer**
+  <!-- Quick Status Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/omkar-pansare-3b8a91292" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:omkarpansare5566@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://leetcode.com/u/Omkar55666/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Open%20To-Full--Time%20%7C%20Projects-22c55e?style=for-the-badge" alt="Status" />
+  </p>
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omkar-pansare.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-pansare-3b8a91292)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarpansare5566@gmail.com)
+  <!-- Profile View Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Omkar-56&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
+  </p>
 
 </div>
 
 ---
 
-## About Me
+### About Me
 
-I'm a developer based in **Pune**, passionate about the intersection of clean engineering and great design. I build things for the web — from pixel-perfect frontends to robust backend systems.
-
-- Currently working on **Recepito(Whatsapp AI Receptionist)**
-- Learning **Whatsapp API, LLM integration**
-- Open to **freelance projects, collaborations, and full-time roles**
-<!-- - Ask me about **React, Node.js, system design, or [your niche]**
-- Fun fact: **[something human and memorable about you]** -->
-
----
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-<!-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) -->
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- **Full-Stack Engineer** with a strong focus on building end-to-end architectures — from performant database schemas to fluid user interfaces.
+- **Backend & Distributed Logic:** Building robust RESTful services, secure auth pipelines (OAuth, JWT), and data pipelines using **Python (FastAPI)** and **Node.js (Express)**.
+- **Frontend Engineering:** Crafting reactive, modular, and accessible user interfaces with **React** and **Tailwind CSS**.
+- **AI & Knowledge Systems:** Practical experience implementing **Retrieval-Augmented Generation (RAG)** systems using **LangChain**, vector databases (**ChromaDB**), and deep learning image pipelines.
+- **Algorithmic Problem Solving:** 100+ algorithmic challenges solved on [LeetCode](https://leetcode.com/u/Omkar55666/) with a deep emphasis on clean time/space complexity.
+- **Available For:** Full-time Software Engineering roles, backend/full-stack opportunities, and freelance consulting.
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack | Links |
-|---------|-------------|-------|-------|
-| **[Unalone](https://github.com/Omkar-56/unalone)** | Going for a Coffee on your own? Post it on Unalone app and get a company. | React · Node.js · PostgreSQL | [Live ↗](https://unalone-flax.vercel.app/) · [Repo](https://github.com/Omkar-56/unalone) |
-| **[Cloud Storage WebApp](https://github.com/Omkar-56/Personal-Cloud-Storage)** | Store your data securely  | React · Node.js · Minio | [Repo](https://github.com/Omkar-56/Personal-Cloud-Storage) |
-| **[Recepito](https://github.com/Omkar-56/Whatsapp-AI-Bot-Server)** | Working on an AI receptionist for booking appointments using Whatsapp. | Nodejs · Whatsapp API · PostgreSQL | [Repo](https://github.com/Omkar-56/Whatsapp-AI-Bot-Server) |
-
----
-
-## GitHub Stats
+### Tech Stack & Tooling
 
 <div align="center">
 
-<img height="160" src="https://github-stats-extended.vercel.app/api?username=Omkar-56&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=C4622D&icon_color=C4622D&text_color=2C1A0E&bg_color=FAF7F2" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Omkar-56&layout=compact&theme=default&hide_border=true&title_color=C4622D&text_color=2C1A0E&bg_color=FAF7F2&langs_count=6" />
+#### Languages & Core
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" alt="Languages" />
+</p>
+
+#### Frontend & UI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,vite" alt="Frontend" />
+</p>
+
+#### Backend, APIs & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb" alt="Backend & DB" />
+</p>
+
+#### DevOps, Cloud & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vercel" alt="DevOps & Tools" />
+</p>
 
 </div>
 
 ---
 
-## Contribution Activity
+### Featured Engineering Projects
+
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Project</th>
+      <th width="45%">Description & Key Highlights</th>
+      <th width="20%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/Omkar-56/unalone">Unalone</a></strong><br />
+        <sub>Location-Based Meetup Platform</sub><br />
+        <br />
+        <a href="https://unalone-flax.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/Omkar-56/unalone">
+          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </td>
+      <td>
+        • Location-aware event discovery and spontaneous activity planning connecting nearby users.<br />
+        • Architected responsive frontend with optimized state management and location tracking.<br />
+        • Production-grade backend API handling user authentication, event feeds, and geo-queries.
+      </td>
+      <td>
+        <code>React</code><br />
+        <code>Node.js</code><br />
+        <code>Express</code><br />
+        <code>PostgreSQL</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/Omkar-56/role-based-rag-chatbot">Role-Based RAG Chatbot</a></strong><br />
+        <sub>Secure Enterprise AI Assistant</sub><br />
+        <br />
+        <a href="https://github.com/Omkar-56/role-based-rag-chatbot">
+          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </td>
+      <td>
+        • Enterprise-ready Retrieval-Augmented Generation chatbot with granular access controls.<br />
+        • Implemented YAML-driven Role-Based Access Control (RBAC) to ensure strict document security.<br />
+        • High-throughput vector search pipeline leveraging ChromaDB and LangChain embeddings.
+      </td>
+      <td>
+        <code>Python</code><br />
+        <code>FastAPI</code><br />
+        <code>LangChain</code><br />
+        <code>ChromaDB</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/Omkar-56/Personal-Cloud-Storage">Personal Cloud Storage</a></strong><br />
+        <sub>Self-Hosted Storage Engine</sub><br />
+        <br />
+        <a href="https://github.com/Omkar-56/Personal-Cloud-Storage">
+          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </td>
+      <td>
+        • Private, self-hosted cloud drive alternative eliminating third-party storage lock-in.<br />
+        • Integrated MinIO S3-compatible object storage with chunked streaming uploads and file management.<br />
+        • Role and token-based protected sharing links with fine-grained access control.
+      </td>
+      <td>
+        <code>Node.js</code><br />
+        <code>Express</code><br />
+        <code>MinIO / S3</code><br />
+        <code>JWT</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/Omkar-56/Leaf-Classification-and-Segmentation">Leaf Disease Classifier & Segmentation</a></strong><br />
+        <sub>Deep Learning Vision App</sub><br />
+        <br />
+        <a href="https://github.com/Omkar-56/Leaf-Classification-and-Segmentation">
+          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </td>
+      <td>
+        • End-to-end computer vision pipeline performing potato leaf disease classification and semantic segmentation.<br />
+        • Automated image preprocessing and high-accuracy inference server containerized with Docker.<br />
+        • Fast inference interface served through a FastAPI backend and React frontend.
+      </td>
+      <td>
+        <code>FastAPI</code><br />
+        <code>React</code><br />
+        <code>PyTorch / Keras</code><br />
+        <code>Docker</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### GitHub Activity & Analytics
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Omkar-56&theme=default&hide_border=true&ring=C4622D&fire=C4622D&currStreakLabel=C4622D&background=FAF7F2&sideLabels=2C1A0E&dates=2C1A0E&currStreakNum=2C1A0E&sideNums=2C1A0E)
+  <a href="https://github.com/Omkar-56">
+    <img src="https://github-stats-extended.vercel.app/api?username=Omkar-56&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Omkar's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/Omkar-56">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Omkar-56&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/Omkar-56">
+    <img src="https://streak-stats.demolab.com?user=Omkar-56&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="97%" />
+  </a>
 
 </div>
 
 ---
 
-<!-- ## 📝 Latest Blog Posts
+### Let's Connect & Collaborate
 
-If you don't have a blog, delete this section
-
-- [Title of your best post](https://yourblog.com/post-1)
-- [Another interesting post](https://yourblog.com/post-2)
-- [Something technical you learned](https://yourblog.com/post-3)
----
--->
-
-## Let's Connect
-
-I'm always happy to chat about projects, ideas, or just say hi.
+I'm always open to discussing software engineering roles, interesting open-source projects, or new tech ventures.
 
 <div align="center">
 
-**[Portfolio](https://omkar-pansare.vercel.app) · [LinkedIn](https://www.linkedin.com/in/omkar-pansare-3b8a91292) · [Email](omkarpansare5566@gmail.com)**
+  <a href="https://www.linkedin.com/in/omkar-pansare-3b8a91292" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:omkarpansare5566@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Omkar55666/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Omkar-56">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Designed with precision for recruiters and engineering teams.</sub>
 </div>
