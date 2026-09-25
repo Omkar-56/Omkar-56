@@ -2,7 +2,7 @@
 
   <!-- Header Typing SVG -->
   <a href="https://github.com/Omkar-56">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Omkar+Pansare;Full-Stack+Software+Developer;Python+%26+Node.js+Backends;React+%26+Tailwind+CSS+Frontends;AI+%26+RAG+Systems+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Omkar+Pansare;Full-Stack+Software+Developer;Node.js+%26+Express+Backends;React+%26+Tailwind+CSS+Frontends;PostgreSQL+%26+SQL+Server" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -35,54 +35,85 @@
 
 ### About Me
 
-- **Full-Stack Engineer** with a strong focus on building end-to-end architectures — from performant database schemas to fluid user interfaces.
-- **Backend & Distributed Logic:** Building robust RESTful services, secure auth pipelines (OAuth, JWT), and data pipelines using **Python (FastAPI)** and **Node.js (Express)**.
-- **Frontend Engineering:** Crafting reactive, modular, and accessible user interfaces with **React** and **Tailwind CSS**.
-- **AI & Knowledge Systems:** Practical experience implementing **Retrieval-Augmented Generation (RAG)** systems using **LangChain**, vector databases (**ChromaDB**), and deep learning image pipelines.
-- **Algorithmic Problem Solving:** 100+ algorithmic challenges solved on [LeetCode](https://leetcode.com/u/Omkar55666/) with a deep emphasis on clean time/space complexity.
-- **Available For:** Full-time Software Engineering roles, backend/full-stack opportunities, and freelance consulting.
+- **Full-Stack Engineer:** Building robust, scalable web applications with clean architecture from database design to modern frontends.
+- **Backend:** Designing secure RESTful APIs, token-based authentication workflows, and relational database schemas with Node.js, Express, PostgreSQL, and SQL Server.
+- **Frontend:** Creating responsive, performance-driven user interfaces using React, Vite, and Tailwind CSS.
+- **Algorithmic Problem Solving:** 100+ problems solved on [LeetCode](https://leetcode.com/u/Omkar55666/) focusing on optimal data structures, time complexity, and edge-case handling.
+- **Available For:** Full-time Software Engineering roles and impactful client projects.
 
 ---
 
 ### Tech Stack & Tooling
 
-<div align="center">
-
 #### Languages & Core
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" alt="Languages" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### Frontend & UI
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,redux,vite" alt="Frontend" />
+#### Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
-#### Backend, APIs & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb" alt="Backend & DB" />
+#### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-#### DevOps, Cloud & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vercel" alt="DevOps & Tools" />
+#### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
-
-</div>
 
 ---
 
-### Featured Engineering Projects
+### Featured Projects
 
 <table>
   <thead>
     <tr>
-      <th width="35%">Project</th>
-      <th width="45%">Description & Key Highlights</th>
+      <th width="32%">Project</th>
+      <th width="48%">Description & Highlights</th>
       <th width="20%">Tech Stack</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/Omkar-56/SubTrack">SubTrack</a></strong><br />
+        <sub>Subscription & Recurring-Bill Tracker</sub><br />
+        <br />
+        <a href="https://github.com/Omkar-56/SubTrack">
+          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </td>
+      <td>
+        • Centralized ledger tracking monthly and yearly recurring expenses, active counts, and renewal timelines.<br />
+        • Automated price-hike detection archiving historical subscription costs with instant 30-day hike alerts.<br />
+        • 12-month spend forecasting and trend reconstruction using dynamic, interactive line visualizations.
+      </td>
+      <td>
+        <code>React (Vite)</code><br />
+        <code>Tailwind CSS</code><br />
+        <code>Node.js</code><br />
+        <code>Express</code><br />
+        <code>PostgreSQL</code>
+      </td>
+    </tr>
     <tr>
       <td>
         <strong><a href="https://github.com/Omkar-56/unalone">Unalone</a></strong><br />
@@ -97,76 +128,37 @@
       </td>
       <td>
         • Location-aware event discovery and spontaneous activity planning connecting nearby users.<br />
-        • Architected responsive frontend with optimized state management and location tracking.<br />
-        • Production-grade backend API handling user authentication, event feeds, and geo-queries.
+        • Scalable REST API with user authentication, geofenced event feeds, and relational data modeling.<br />
+        • Mobile-responsive UI with smooth state management, location tracking, and real-time event updates.
       </td>
       <td>
         <code>React</code><br />
         <code>Node.js</code><br />
         <code>Express</code><br />
-        <code>PostgreSQL</code>
+        <code>PostgreSQL</code><br />
+        <code>Tailwind CSS</code>
       </td>
     </tr>
     <tr>
       <td>
-        <strong><a href="https://github.com/Omkar-56/role-based-rag-chatbot">Role-Based RAG Chatbot</a></strong><br />
-        <sub>Secure Enterprise AI Assistant</sub><br />
+        <strong><a href="https://github.com/Omkar-56/DF-Detector">Deepfake Detection System</a></strong><br />
+        <sub>Hybrid Spatial-Temporal Video Analysis</sub><br />
         <br />
-        <a href="https://github.com/Omkar-56/role-based-rag-chatbot">
+        <a href="https://github.com/Omkar-56/DF-Detector">
           <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
         </a>
       </td>
       <td>
-        • Enterprise-ready Retrieval-Augmented Generation chatbot with granular access controls.<br />
-        • Implemented YAML-driven Role-Based Access Control (RBAC) to ensure strict document security.<br />
-        • High-throughput vector search pipeline leveraging ChromaDB and LangChain embeddings.
+        • Hybrid deep learning pipeline analyzing video authenticity across both spatial and temporal dimensions.<br />
+        • EfficientNet-B0 extracts frame-level visual anomalies while an LSTM models sequential temporal coherence.<br />
+        • Microservices architecture with video hash-based result caching to eliminate redundant ML inference.
       </td>
       <td>
         <code>Python</code><br />
-        <code>FastAPI</code><br />
-        <code>LangChain</code><br />
-        <code>ChromaDB</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong><a href="https://github.com/Omkar-56/Personal-Cloud-Storage">Personal Cloud Storage</a></strong><br />
-        <sub>Self-Hosted Storage Engine</sub><br />
-        <br />
-        <a href="https://github.com/Omkar-56/Personal-Cloud-Storage">
-          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </td>
-      <td>
-        • Private, self-hosted cloud drive alternative eliminating third-party storage lock-in.<br />
-        • Integrated MinIO S3-compatible object storage with chunked streaming uploads and file management.<br />
-        • Role and token-based protected sharing links with fine-grained access control.
-      </td>
-      <td>
-        <code>Node.js</code><br />
-        <code>Express</code><br />
-        <code>MinIO / S3</code><br />
-        <code>JWT</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong><a href="https://github.com/Omkar-56/Leaf-Classification-and-Segmentation">Leaf Disease Classifier & Segmentation</a></strong><br />
-        <sub>Deep Learning Vision App</sub><br />
-        <br />
-        <a href="https://github.com/Omkar-56/Leaf-Classification-and-Segmentation">
-          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </td>
-      <td>
-        • End-to-end computer vision pipeline performing potato leaf disease classification and semantic segmentation.<br />
-        • Automated image preprocessing and high-accuracy inference server containerized with Docker.<br />
-        • Fast inference interface served through a FastAPI backend and React frontend.
-      </td>
-      <td>
-        <code>FastAPI</code><br />
+        <code>PyTorch</code><br />
         <code>React</code><br />
-        <code>PyTorch / Keras</code><br />
+        <code>Go</code><br />
+        <code>PostgreSQL</code><br />
         <code>Docker</code>
       </td>
     </tr>
