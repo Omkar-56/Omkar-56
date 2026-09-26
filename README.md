@@ -214,9 +214,9 @@ I'm always open to discussing software engineering roles, interesting open-sourc
   </a>
 
 </div>
-
+<!-- 
 <br />
-
 <div align="center">
   <sub>Designed with precision for recruiters and engineering teams.</sub>
 </div>
+-->
