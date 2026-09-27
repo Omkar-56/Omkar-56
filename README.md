@@ -20,7 +20,7 @@
     <a href="https://leetcode.com/u/Omkar55666/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
-    <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" /><br>
     <img src="https://img.shields.io/badge/Open%20To-Full--Time%20%7C%20Projects-22c55e?style=for-the-badge" alt="Status" />
   </p>
 <!-- Profile View Counter -->  
