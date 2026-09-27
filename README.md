@@ -23,14 +23,13 @@
     <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Open%20To-Full--Time%20%7C%20Projects-22c55e?style=for-the-badge" alt="Status" />
   </p>
-
-  <!-- Profile View Counter -->
+<!-- Profile View Counter -->  
+<!-- 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Omkar-56&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
   </p>
-
-</div>
-
+</div> 
+-->
 ---
 
 ### About Me
